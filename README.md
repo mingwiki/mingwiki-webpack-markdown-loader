@@ -1,4 +1,11 @@
-# webpack-markdown-loader
+# mingwiki-webpack-markdown-loader
+
+```bash
+npm i mingwiki-webpack-markdown-loader
+```
+
+
+## webpack 
 
 ```js
 const path = require('path')
@@ -26,7 +33,8 @@ module.exports = {
 						}
 					},
 					{
-						loader: 'markdown-loader',
+						loader: 'mingwiki-webpack-markdown-loader
+',
 					}
 				]
 			}
