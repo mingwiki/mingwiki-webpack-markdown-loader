@@ -1,0 +1,20 @@
+{
+  "name": "mingwiki-webpack-markdown-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "markdown-loader.js",
+  "author": {
+    "url": "https://github.com/mingwiki",
+    "email": "mingwiki@gmail.com",
+    "name": "mingwiki"
+  },
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "html-loader": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "marked": "^4.0.12"
+  }
+}
