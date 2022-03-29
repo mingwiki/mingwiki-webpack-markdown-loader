@@ -44,7 +44,6 @@ module.exports = {
 		new HtmlWebpackPlugin({
 			title: 'test loader',
 			template: './src/index.html',
-			markdown: './src/article.md',
 		}),
 	]
 }
